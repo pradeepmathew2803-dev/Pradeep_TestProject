@@ -1,0 +1,27 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache/temporary files
+.anaconda/
+.cagent/
+.claude/
+node_modules/
+.vscode/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+*.swp
+*.swo
+*~
+.idea/
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
